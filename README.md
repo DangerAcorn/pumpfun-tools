@@ -17,7 +17,7 @@
 
 <div align="center">
     <!-- Screenshot placeholder -->
-    <img id="pumpfun-tools" src="https://raw.githubusercontent.com/DangerAcorn/pumpfun-tools/main/images/discord-tools.png" alt="PumpFun Tools: Deployer, Sniper, Vision, Bump, Comment, Followers, Shill" style="width: 100%; border-radius: 16px; max-width: 300px; margin-top: 20px;">
+    <img id="pumpfun-tools" src="https://raw.githubusercontent.com/DangerAcorn/pumpfun-tools/main/images/discord-tools.png" alt="PumpFun Tools: Deployer, Sniper, Vision, Bump, Comment, Followers, Shill" style="width: 100%; border-radius: 16px; width: 300px; margin-top: 20px;">
   
    <p style="margin-top: 16px;">
         <strong>PumpFun Deployer</strong> - Create, Buy, and Snipe before bots do<br>
