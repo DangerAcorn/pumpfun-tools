@@ -19,7 +19,9 @@
 <div align="center">
   <h2>What tools are included?</h2>
    <p style="margin-top: 16px;">
-        <strong>PumpFun Bundler</strong> - Create, Buy, and Snipe before bots do<br>
+                <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bundler" target="_blank">
+          <strong>PumpFun Bundler</strong>
+        </a> - Create, Buy, and Snipe before bots do<br>
         <strong>PumpFun Sniper</strong> - Snipe new tokens based on personalized filters<br>
         <strong>PumpFun Vision</strong> - Real-time feed of newly created tokens on PumpFun<br>
         <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bumper" target="_blank">
