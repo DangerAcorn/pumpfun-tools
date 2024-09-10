@@ -22,7 +22,9 @@
                 <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bundler" target="_blank">
           <strong>PumpFun Bundler</strong>
         </a> - Create, Buy, and Snipe before bots do<br>
-        <strong>PumpFun Sniper</strong> - Snipe new tokens based on personalized filters<br>
+        <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-sniper" target="_blank">
+          <strong>PumpFun Sniper</strong>
+        </a> - Snipe new tokens based on personalized filters<br>
         <strong>PumpFun Vision</strong> - Real-time feed of newly created tokens on PumpFun<br>
         <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bumper" target="_blank">
           <strong>PumpFun Bump</strong>
