@@ -10,7 +10,7 @@
     <a href="https://discord.gg/uESsx28uVe">
         <img style="border-radius: 8px;" src="https://img.shields.io/badge/Get_Access-On_Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord">
     </a>
-    <a href="https://t.me/DangerAcorn">
+    <a href="https://t.me/+MTXG7kJTIb05NmVh">
         <img style="border-radius: 8px;" src="https://img.shields.io/badge/Get_Access-On_Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Our Telegram">
     </a>
 </div>
@@ -60,7 +60,7 @@
 
 <h2 id="see-it-in-action">🎥 See It In Action</h2>
 
-<p>Curious about what the tools can do? <a href="https://discord.gg/uESsx28uVe" style="color: #5865F2; text-decoration: none;"><strong>Join our Discord</strong></a> to get a demo and access real-time support!</p>
+<p>Curious about what the tools can do? <a href="https://t.me/+MTXG7kJTIb05NmVh" style="color: #5865F2; text-decoration: none;"><strong>Join our Telegram Group</strong></a> to get a demo and access real-time support!</p>
 
 
 <h2 id="faq">❓ Frequently Asked Questions</h2>
