@@ -29,11 +29,11 @@
         <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bumper" target="_blank">
           <strong>PumpFun Bump</strong>
         </a> - Get your token on the front page of Pump.fun<br>
-        <strong>PumpFun Comment</strong> - Automate comments to increase engagement<br>
-        <strong>PumpFun Followers</strong> - Generate followers for any account.<br>
-        <strong>PumpFun Shill</strong> - Strategically promote any messages across PumpFun.
+        <strong>PumpFun Comments</strong> - Automate comments to increase engagement<br>
     </p>
 </div>
+
+![localhost_3000_(Screenshot)](https://github.com/user-attachments/assets/926340d9-a017-4aa5-81e5-d9e54b0e5353)
 
 
 <div align="center">
