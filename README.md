@@ -33,7 +33,7 @@
     </p>
 </div>
 
-![localhost_3000_(Screenshot)](https://github.com/user-attachments/assets/926340d9-a017-4aa5-81e5-d9e54b0e5353)
+![image](https://github.com/user-attachments/assets/922ed634-4a9c-419a-a674-1226e896f70a)
 
 
 <div align="center">
