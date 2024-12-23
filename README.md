@@ -22,18 +22,19 @@
    <p style="margin-top: 16px;">
                 <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bundler" target="_blank">
           <strong>PumpFun Bundler</strong>
-        </a> - Create, Buy, and Snipe with Anti-Bubblemaps<br>
+        </a> - Create, Buy, and Snipe with up to 20 wallets<br>
         <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bumper" target="_blank">
           <strong>PumpFun Bump Bot</strong>
         </a> - Stay on the front page of Pump.fun<br>
         <a href="https://github.com/DangerAcorn/pumpfun-tools/tree/main/pumpfun-bumper" target="_blank">
           <strong>PumpFun Volume Bot</strong>
-        </a> - Keep your token actively trading and gaining attention<br>
+        </a> - Keep your token actively trading<br>
     </p>
 </div>
 
-![image](https://github.com/user-attachments/assets/91444919-f14a-44df-bb33-369eb050d212)
+![image](https://github.com/user-attachments/assets/07290bfa-9184-4f33-b1e9-46b3bba9451b)
 
+## Fully Customizable Dashboard
 
 <div align="center">
 
