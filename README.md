@@ -20,8 +20,8 @@
 
 ### _Professional Trading Platform with Advanced Customization_
 
-[<img src="https://img.shields.io/badge/Discord-Join%20Community-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord Community"/>](https://discord.gg/uESsx28uVe)
-[<img src="https://img.shields.io/badge/Telegram-Join%20Channel-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Our Telegram Channel"/>](https://t.me/+MTXG7kJTIb05NmVh)
+[<img src="https://img.shields.io/badge/Discord-Join%20Community-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord Community"/>](https://discord.gg/BRxeHgm5q7)
+[<img src="https://img.shields.io/badge/Telegram-Join%20Channel-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Our Telegram Channel"/>](https://t.me/+jtvLkXsv0345OGZh)
 
 ## 🌟 What's Unique About Pumpski?
 
@@ -148,7 +148,7 @@ _Advanced Trading Platform with Zero Fees_
 > "The ultimate trading suite for professional traders, featuring a fully modular interface and advanced trading tools"
 
 [![Website](https://img.shields.io/badge/Website-pumpski.fun-B4FF32?style=flat-square)](https://pumpski.fun)
-[![View App](https://img.shields.io/badge/Access-Members%20Only-8CBF28?style=flat-square)](https://app.pumpski.fun)
+[![View App](https://img.shields.io/badge/Access-Members%20Only-8CBF28?style=flat-square)](https://pumpski.fun)
 [![Docs](https://img.shields.io/badge/Documentation-Guide-8CBF28?style=flat-square)](https://docs.pumpski.fun)
 
 
